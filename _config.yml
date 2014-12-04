@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Inquisitor 
-description: "A lightweight site starter for Jekyll"
+description: "A vangaurd for science"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
@@ -21,11 +21,11 @@ gems:
 
 # Site owner
 owner:
-  name: Michael Rose
-  web: http://mademistakes.com
-  email: michael@mademistakes.com
-  twitter: mmistakes
-  bio: "Just another boring, tattooed, time traveling designer."
+  name: Guy Burroughes
+  web: http://localhost
+  email: gburroughes1"gmail.com
+  twitter: phuicy
+  bio: "Enraged Roboticist."
   avatar: bio-photo.jpg # 160x160 px image for author byline
   google:
     plus: +MichaelRoseDesign
