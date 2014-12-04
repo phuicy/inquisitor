@@ -13,7 +13,7 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Content First</h2>
+  <h2 class="post-title">Peer Reviewed</h2>
   <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
 </div><!-- /.tile -->
 
