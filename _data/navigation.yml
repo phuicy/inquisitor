@@ -10,9 +10,9 @@
   excerpt: "Latest articles available"
   image: 400x250.gif
 
-- title: Media
-  url: /media/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
+- title: Peer Reviewed
+  url: /peer-reviewed/
+  excerpt: "A repository of great science online"
   image: 400x250.gif
 
 - title: About
