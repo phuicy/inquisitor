@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: earth-light-1600x800.png
+  feature: earth-lights-1600x800.png
 ---
 
 <div class="tiles">
